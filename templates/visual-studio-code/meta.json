@@ -1,0 +1,17 @@
+{
+    "id": "vscode",
+    "name": "Visual Studio Code",
+    "aliases": [
+        "vscode",
+        "vs-code",
+        "code"
+    ],
+    "category": "editor",
+    "tags": [
+        "editor",
+        "code",
+        "vscode#",
+        "microsoft"
+    ],
+    "description": ""
+}
