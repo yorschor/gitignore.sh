@@ -66,7 +66,9 @@ export function useTemplateApp(service: TemplateService) {
         let cancelled = false;
 
         (async () => {
-            const result = await service.mergeSelection(selectedTemplates);
+            const result = await service.mergeSelection(selectedTemplates, {
+                sourceUrl: window.location.href,
+            });
 
             if (!cancelled) {
                 setMerged(result);
