@@ -1,4 +1,4 @@
-import type { TemplateMeta } from '../../lib/template-types';
+import type { TemplateMeta } from "../../lib/template-types";
 
 export interface TemplateCategoryViewModel {
     category: string;
@@ -13,21 +13,25 @@ interface CategoryPresentation {
 }
 
 const CATEGORY_PRESENTATION: Record<string, CategoryPresentation> = {
-    language: {
-        label: 'Languages',
-        icon: '</>',
+    languages: {
+        label: "Languages",
+        icon: "</>",
     },
-    framework: {
-        label: 'Frameworks',
-        icon: '◈',
+    frameworks: {
+        label: "Frameworks",
+        icon: "◈",
     },
-    ide: {
-        label: 'IDEs',
-        icon: '▣',
+    tools: {
+        label: "Tools",
+        icon: "⚙",
     },
-    os: {
-        label: 'OS',
-        icon: '◰',
+    platforms: {
+        label: "Platforms",
+        icon: "◰",
+    },
+    editors: {
+        label: "Editors",
+        icon: "▣",
     },
 };
 
@@ -35,7 +39,7 @@ function getCategoryPresentation(category: string): CategoryPresentation {
     return (
         CATEGORY_PRESENTATION[category] ?? {
             label: category,
-            icon: '•',
+            icon: "•",
         }
     );
 }
@@ -58,7 +62,9 @@ export function groupTemplatesByCategory(
             category,
             label: presentation.label,
             icon: presentation.icon,
-            templates: [...groupedTemplates].sort((a, b) => a.name.localeCompare(b.name)),
+            templates: [...groupedTemplates].sort((a, b) =>
+                a.name.localeCompare(b.name),
+            ),
         };
     });
 }
