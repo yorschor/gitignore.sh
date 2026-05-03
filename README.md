@@ -1,8 +1,17 @@
-# gitignore.sh
+# [gitignore.sh](https://gitignore.sh)
 
 A static, client-side `.gitignore` builder.
 
 Select templates, merge them in the browser, and download a ready-to-use `.gitignore` file.
+
+
+---
+
+## Usage
+
+1. Search for templates.
+2. Select the ones you need.
+3. Copy, download, or share the generated `.gitignore`.
 
 ---
 
@@ -14,6 +23,24 @@ Select templates, merge them in the browser, and download a ready-to-use `.gitig
 * 📋 Copy to clipboard
 * ⬇️ Download as `.gitignore`
 * ⚡ Fully static (no backend)
+
+---
+
+## 🌍 Community & Contributions
+
+This project relies on accurate, up-to-date .gitignore templates. Their quality improves over time through community contributions.
+
+If you notice something missing, outdated, or incorrect, consider contributing to improve it for everyone.
+
+You can help by:
+
+* adding missing rules
+* fixing incorrect or outdated entries
+* supporting new languages, tools, or frameworks
+
+Templates are intentionally simple to edit, and even small fixes make a meaningful difference.
+
+Open a pull request with your changes or improvements.
 
 ---
 
@@ -163,3 +190,14 @@ Rules:
 * **services/** → orchestration service
 * **ui/** → Preact components
 
+## Credits
+
+The initial batch of `.gitignore` templates was adapted from GitHub’s public `.gitignore` repository:
+https://github.com/github/gitignore
+
+## License
+
+- Application code is licensed under MIT.
+- Templates in `/templates` are licensed under CC0 (public domain).
+
+By contributing templates, you agree to release them under CC0.
