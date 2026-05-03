@@ -1,0 +1,10 @@
+{
+  "id": "clojure",
+  "name": "Clojure",
+  "aliases": [
+    "clojure"
+  ],
+  "category": "languages",
+  "tags": [],
+  "description": ""
+}

@@ -1,0 +1,10 @@
+{
+  "id": "gcov",
+  "name": "Gcov",
+  "aliases": [
+    "gcov"
+  ],
+  "category": "tools",
+  "tags": [],
+  "description": ""
+}

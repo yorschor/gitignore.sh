@@ -1,0 +1,10 @@
+{
+  "id": "microchip-mplab-x-ide",
+  "name": "Microchip_MPLAB_X_IDE",
+  "aliases": [
+    "microchip-mplab-x-ide"
+  ],
+  "category": "platforms",
+  "tags": [],
+  "description": ""
+}

@@ -1,0 +1,10 @@
+{
+  "id": "platformio",
+  "name": "Platform IO",
+  "aliases": [
+    "platformio"
+  ],
+  "category": "editors",
+  "tags": [],
+  "description": ""
+}

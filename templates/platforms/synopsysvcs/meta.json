@@ -1,0 +1,10 @@
+{
+  "id": "synopsysvcs",
+  "name": "Synopsys VCS",
+  "aliases": [
+    "synopsysvcs"
+  ],
+  "category": "platforms",
+  "tags": [],
+  "description": ""
+}

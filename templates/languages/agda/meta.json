@@ -1,0 +1,10 @@
+{
+  "id": "agda",
+  "name": "Agda",
+  "aliases": [
+    "agda"
+  ],
+  "category": "languages",
+  "tags": [],
+  "description": ""
+}

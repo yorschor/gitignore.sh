@@ -1,0 +1,10 @@
+{
+  "id": "nix",
+  "name": "Nix",
+  "aliases": [
+    "nix"
+  ],
+  "category": "tools",
+  "tags": [],
+  "description": ""
+}

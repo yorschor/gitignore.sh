@@ -1,0 +1,10 @@
+{
+  "id": "mercurial",
+  "name": "Mercurial",
+  "aliases": [
+    "mercurial"
+  ],
+  "category": "platforms",
+  "tags": [],
+  "description": ""
+}

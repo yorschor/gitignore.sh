@@ -1,0 +1,10 @@
+{
+  "id": "ansible",
+  "name": "Ansible",
+  "aliases": [
+    "ansible"
+  ],
+  "category": "tools",
+  "tags": [],
+  "description": ""
+}

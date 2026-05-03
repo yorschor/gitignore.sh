@@ -1,0 +1,10 @@
+{
+  "id": "windows",
+  "name": "Windows",
+  "aliases": [
+    "windows"
+  ],
+  "category": "platforms",
+  "tags": [],
+  "description": ""
+}

@@ -1,0 +1,10 @@
+{
+  "id": "matlab",
+  "name": "MATLAB",
+  "aliases": [
+    "matlab"
+  ],
+  "category": "platforms",
+  "tags": [],
+  "description": ""
+}

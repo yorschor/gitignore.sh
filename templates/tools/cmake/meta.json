@@ -1,0 +1,10 @@
+{
+  "id": "cmake",
+  "name": "CMake",
+  "aliases": [
+    "cmake"
+  ],
+  "category": "tools",
+  "tags": [],
+  "description": ""
+}

@@ -1,0 +1,10 @@
+{
+  "id": "episerver",
+  "name": "EPi Server",
+  "aliases": [
+    "episerver"
+  ],
+  "category": "frameworks",
+  "tags": [],
+  "description": ""
+}

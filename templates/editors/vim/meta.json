@@ -1,0 +1,10 @@
+{
+  "id": "vim",
+  "name": "Vim",
+  "aliases": [
+    "vim"
+  ],
+  "category": "editors",
+  "tags": [],
+  "description": ""
+}

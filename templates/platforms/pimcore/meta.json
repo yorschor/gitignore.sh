@@ -1,0 +1,10 @@
+{
+  "id": "pimcore",
+  "name": "Pimcore",
+  "aliases": [
+    "pimcore"
+  ],
+  "category": "platforms",
+  "tags": [],
+  "description": ""
+}

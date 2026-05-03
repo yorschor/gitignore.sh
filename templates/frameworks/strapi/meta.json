@@ -1,0 +1,10 @@
+{
+  "id": "strapi",
+  "name": "Strapi",
+  "aliases": [
+    "strapi"
+  ],
+  "category": "frameworks",
+  "tags": [],
+  "description": ""
+}

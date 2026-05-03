@@ -1,0 +1,10 @@
+{
+  "id": "codesniffer",
+  "name": "Code Sniffer",
+  "aliases": [
+    "codesniffer"
+  ],
+  "category": "platforms",
+  "tags": [],
+  "description": ""
+}

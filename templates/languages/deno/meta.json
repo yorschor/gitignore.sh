@@ -1,0 +1,10 @@
+{
+  "id": "deno",
+  "name": "Deno",
+  "aliases": [
+    "deno"
+  ],
+  "category": "languages",
+  "tags": [],
+  "description": ""
+}

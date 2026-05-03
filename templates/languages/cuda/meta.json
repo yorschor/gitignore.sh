@@ -1,0 +1,10 @@
+{
+  "id": "cuda",
+  "name": "CUDA",
+  "aliases": [
+    "cuda"
+  ],
+  "category": "languages",
+  "tags": [],
+  "description": ""
+}

@@ -1,0 +1,10 @@
+{
+  "id": "redis",
+  "name": "Redis",
+  "aliases": [
+    "redis"
+  ],
+  "category": "platforms",
+  "tags": [],
+  "description": ""
+}

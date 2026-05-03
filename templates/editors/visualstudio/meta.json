@@ -1,0 +1,10 @@
+{
+  "id": "visualstudio",
+  "name": "Visual Studio",
+  "aliases": [
+    "visualstudio"
+  ],
+  "category": "editors",
+  "tags": [],
+  "description": ""
+}

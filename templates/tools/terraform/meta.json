@@ -1,0 +1,10 @@
+{
+  "id": "terraform",
+  "name": "Terraform",
+  "aliases": [
+    "terraform"
+  ],
+  "category": "tools",
+  "tags": [],
+  "description": ""
+}

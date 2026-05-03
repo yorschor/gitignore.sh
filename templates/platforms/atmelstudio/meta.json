@@ -1,0 +1,10 @@
+{
+  "id": "atmelstudio",
+  "name": "Atmel Studio",
+  "aliases": [
+    "atmelstudio"
+  ],
+  "category": "platforms",
+  "tags": [],
+  "description": ""
+}

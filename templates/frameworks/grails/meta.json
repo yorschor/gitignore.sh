@@ -1,0 +1,10 @@
+{
+  "id": "grails",
+  "name": "Grails",
+  "aliases": [
+    "grails"
+  ],
+  "category": "frameworks",
+  "tags": [],
+  "description": ""
+}

@@ -1,0 +1,10 @@
+{
+  "id": "virtualenv",
+  "name": "Virtual Env",
+  "aliases": [
+    "virtualenv"
+  ],
+  "category": "platforms",
+  "tags": [],
+  "description": ""
+}

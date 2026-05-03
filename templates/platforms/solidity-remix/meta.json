@@ -1,0 +1,10 @@
+{
+  "id": "solidity-remix",
+  "name": "Solidity Remix",
+  "aliases": [
+    "solidity-remix"
+  ],
+  "category": "platforms",
+  "tags": [],
+  "description": ""
+}

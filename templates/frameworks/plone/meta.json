@@ -1,0 +1,10 @@
+{
+  "id": "plone",
+  "name": "Plone",
+  "aliases": [
+    "plone"
+  ],
+  "category": "frameworks",
+  "tags": [],
+  "description": ""
+}

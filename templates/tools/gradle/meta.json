@@ -1,0 +1,10 @@
+{
+  "id": "gradle",
+  "name": "Gradle",
+  "aliases": [
+    "gradle"
+  ],
+  "category": "tools",
+  "tags": [],
+  "description": ""
+}

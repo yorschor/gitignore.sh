@@ -1,0 +1,10 @@
+{
+  "id": "scons",
+  "name": "SCons",
+  "aliases": [
+    "scons"
+  ],
+  "category": "tools",
+  "tags": [],
+  "description": ""
+}

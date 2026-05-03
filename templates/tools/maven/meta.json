@@ -1,0 +1,10 @@
+{
+  "id": "maven",
+  "name": "Maven",
+  "aliases": [
+    "maven"
+  ],
+  "category": "tools",
+  "tags": [],
+  "description": ""
+}

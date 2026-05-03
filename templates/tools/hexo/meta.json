@@ -1,0 +1,10 @@
+{
+  "id": "hexo",
+  "name": "Hexo",
+  "aliases": [
+    "hexo"
+  ],
+  "category": "tools",
+  "tags": [],
+  "description": ""
+}

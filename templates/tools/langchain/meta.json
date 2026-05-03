@@ -1,0 +1,10 @@
+{
+  "id": "langchain",
+  "name": "Lang Chain",
+  "aliases": [
+    "langchain"
+  ],
+  "category": "tools",
+  "tags": [],
+  "description": ""
+}

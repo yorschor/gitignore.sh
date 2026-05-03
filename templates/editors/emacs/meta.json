@@ -1,0 +1,10 @@
+{
+  "id": "emacs",
+  "name": "Emacs",
+  "aliases": [
+    "emacs"
+  ],
+  "category": "editors",
+  "tags": [],
+  "description": ""
+}

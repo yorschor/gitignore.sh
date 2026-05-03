@@ -1,0 +1,10 @@
+{
+  "id": "cdk",
+  "name": "CDK",
+  "aliases": [
+    "cdk"
+  ],
+  "category": "platforms",
+  "tags": [],
+  "description": ""
+}

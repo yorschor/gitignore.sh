@@ -1,0 +1,10 @@
+{
+  "id": "nestjs",
+  "name": "Nestjs",
+  "aliases": [
+    "nestjs"
+  ],
+  "category": "frameworks",
+  "tags": [],
+  "description": ""
+}

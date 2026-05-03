@@ -1,0 +1,10 @@
+{
+  "id": "macos",
+  "name": "mac OS",
+  "aliases": [
+    "macos"
+  ],
+  "category": "platforms",
+  "tags": [],
+  "description": ""
+}

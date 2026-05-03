@@ -1,0 +1,10 @@
+{
+  "id": "jenkins-home",
+  "name": "JENKINS_HOME",
+  "aliases": [
+    "jenkins-home"
+  ],
+  "category": "platforms",
+  "tags": [],
+  "description": ""
+}

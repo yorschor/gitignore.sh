@@ -1,0 +1,10 @@
+{
+  "id": "go",
+  "name": "Go",
+  "aliases": [
+    "go"
+  ],
+  "category": "languages",
+  "tags": [],
+  "description": ""
+}

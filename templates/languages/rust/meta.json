@@ -1,0 +1,10 @@
+{
+  "id": "rust",
+  "name": "Rust",
+  "aliases": [
+    "rust"
+  ],
+  "category": "languages",
+  "tags": [],
+  "description": ""
+}

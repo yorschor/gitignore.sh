@@ -1,0 +1,10 @@
+{
+  "id": "composer",
+  "name": "Composer",
+  "aliases": [
+    "composer"
+  ],
+  "category": "tools",
+  "tags": [],
+  "description": ""
+}

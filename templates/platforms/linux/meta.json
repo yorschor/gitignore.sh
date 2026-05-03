@@ -1,0 +1,10 @@
+{
+  "id": "linux",
+  "name": "Linux",
+  "aliases": [
+    "linux"
+  ],
+  "category": "platforms",
+  "tags": [],
+  "description": ""
+}

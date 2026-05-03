@@ -1,0 +1,10 @@
+{
+  "id": "darteditor",
+  "name": "Dart Editor",
+  "aliases": [
+    "darteditor"
+  ],
+  "category": "editors",
+  "tags": [],
+  "description": ""
+}

@@ -1,0 +1,10 @@
+{
+  "id": "packer",
+  "name": "Packer",
+  "aliases": [
+    "packer"
+  ],
+  "category": "tools",
+  "tags": [],
+  "description": ""
+}

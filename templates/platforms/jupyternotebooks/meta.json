@@ -1,0 +1,10 @@
+{
+  "id": "jupyternotebooks",
+  "name": "Jupyter Notebooks",
+  "aliases": [
+    "jupyternotebooks"
+  ],
+  "category": "platforms",
+  "tags": [],
+  "description": ""
+}

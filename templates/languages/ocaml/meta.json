@@ -1,0 +1,10 @@
+{
+  "id": "ocaml",
+  "name": "OCaml",
+  "aliases": [
+    "ocaml"
+  ],
+  "category": "languages",
+  "tags": [],
+  "description": ""
+}

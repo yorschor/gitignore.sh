@@ -1,0 +1,10 @@
+{
+  "id": "svn",
+  "name": "SVN",
+  "aliases": [
+    "svn"
+  ],
+  "category": "platforms",
+  "tags": [],
+  "description": ""
+}

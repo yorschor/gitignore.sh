@@ -1,0 +1,10 @@
+{
+  "id": "archlinuxpackages",
+  "name": "Arch Linux Packages",
+  "aliases": [
+    "archlinuxpackages"
+  ],
+  "category": "platforms",
+  "tags": [],
+  "description": ""
+}

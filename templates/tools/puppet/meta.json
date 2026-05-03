@@ -1,0 +1,10 @@
+{
+  "id": "puppet",
+  "name": "Puppet",
+  "aliases": [
+    "puppet"
+  ],
+  "category": "tools",
+  "tags": [],
+  "description": ""
+}

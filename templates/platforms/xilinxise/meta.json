@@ -1,0 +1,10 @@
+{
+  "id": "xilinxise",
+  "name": "Xilinx ISE",
+  "aliases": [
+    "xilinxise"
+  ],
+  "category": "platforms",
+  "tags": [],
+  "description": ""
+}

@@ -1,0 +1,10 @@
+{
+  "id": "symfony",
+  "name": "Symfony",
+  "aliases": [
+    "symfony"
+  ],
+  "category": "frameworks",
+  "tags": [],
+  "description": ""
+}

@@ -1,0 +1,10 @@
+{
+  "id": "terragrunt",
+  "name": "Terragrunt",
+  "aliases": [
+    "terragrunt"
+  ],
+  "category": "tools",
+  "tags": [],
+  "description": ""
+}

@@ -1,0 +1,10 @@
+{
+  "id": "commonlisp",
+  "name": "Common Lisp",
+  "aliases": [
+    "commonlisp"
+  ],
+  "category": "platforms",
+  "tags": [],
+  "description": ""
+}

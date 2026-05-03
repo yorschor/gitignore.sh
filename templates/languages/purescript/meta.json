@@ -1,0 +1,10 @@
+{
+  "id": "purescript",
+  "name": "Pure Script",
+  "aliases": [
+    "purescript"
+  ],
+  "category": "languages",
+  "tags": [],
+  "description": ""
+}

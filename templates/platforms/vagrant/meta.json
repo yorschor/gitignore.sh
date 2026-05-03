@@ -1,0 +1,10 @@
+{
+  "id": "vagrant",
+  "name": "Vagrant",
+  "aliases": [
+    "vagrant"
+  ],
+  "category": "platforms",
+  "tags": [],
+  "description": ""
+}

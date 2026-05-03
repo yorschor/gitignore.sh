@@ -1,0 +1,10 @@
+{
+  "id": "cvs",
+  "name": "CVS",
+  "aliases": [
+    "cvs"
+  ],
+  "category": "platforms",
+  "tags": [],
+  "description": ""
+}

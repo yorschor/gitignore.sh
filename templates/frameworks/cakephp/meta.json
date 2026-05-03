@@ -1,0 +1,10 @@
+{
+  "id": "cakephp",
+  "name": "Cake PHP",
+  "aliases": [
+    "cakephp"
+  ],
+  "category": "frameworks",
+  "tags": [],
+  "description": ""
+}

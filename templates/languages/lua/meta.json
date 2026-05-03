@@ -1,0 +1,10 @@
+{
+  "id": "lua",
+  "name": "Lua",
+  "aliases": [
+    "lua"
+  ],
+  "category": "languages",
+  "tags": [],
+  "description": ""
+}

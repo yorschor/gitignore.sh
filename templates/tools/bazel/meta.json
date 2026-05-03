@@ -1,0 +1,10 @@
+{
+  "id": "bazel",
+  "name": "Bazel",
+  "aliases": [
+    "bazel"
+  ],
+  "category": "tools",
+  "tags": [],
+  "description": ""
+}

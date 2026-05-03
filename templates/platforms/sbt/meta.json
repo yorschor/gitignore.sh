@@ -1,0 +1,10 @@
+{
+  "id": "sbt",
+  "name": "SBT",
+  "aliases": [
+    "sbt"
+  ],
+  "category": "platforms",
+  "tags": [],
+  "description": ""
+}

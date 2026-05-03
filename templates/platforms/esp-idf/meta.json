@@ -1,0 +1,10 @@
+{
+  "id": "esp-idf",
+  "name": "esp-idf",
+  "aliases": [
+    "esp-idf"
+  ],
+  "category": "platforms",
+  "tags": [],
+  "description": ""
+}

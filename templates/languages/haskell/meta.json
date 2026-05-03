@@ -1,0 +1,10 @@
+{
+  "id": "haskell",
+  "name": "Haskell",
+  "aliases": [
+    "haskell"
+  ],
+  "category": "languages",
+  "tags": [],
+  "description": ""
+}

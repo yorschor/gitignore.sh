@@ -1,0 +1,12 @@
+{
+    "id": "cpp",
+    "name": "C++",
+    "aliases": [
+        "c",
+        "cpp",
+        "c++"
+    ],
+    "category": "languages",
+    "tags": [],
+    "description": ""
+}

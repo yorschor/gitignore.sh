@@ -1,0 +1,10 @@
+{
+  "id": "ecutest",
+  "name": "ecu.test",
+  "aliases": [
+    "ecutest"
+  ],
+  "category": "tools",
+  "tags": [],
+  "description": ""
+}

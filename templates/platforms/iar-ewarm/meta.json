@@ -1,0 +1,10 @@
+{
+  "id": "iar-ewarm",
+  "name": "IAR_EWARM",
+  "aliases": [
+    "iar-ewarm"
+  ],
+  "category": "platforms",
+  "tags": [],
+  "description": ""
+}

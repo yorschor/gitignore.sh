@@ -1,0 +1,10 @@
+{
+  "id": "waf",
+  "name": "Waf",
+  "aliases": [
+    "waf"
+  ],
+  "category": "tools",
+  "tags": [],
+  "description": ""
+}

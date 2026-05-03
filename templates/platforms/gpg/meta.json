@@ -1,0 +1,10 @@
+{
+  "id": "gpg",
+  "name": "GPG",
+  "aliases": [
+    "gpg"
+  ],
+  "category": "platforms",
+  "tags": [],
+  "description": ""
+}

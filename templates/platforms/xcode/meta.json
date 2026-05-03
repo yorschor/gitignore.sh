@@ -1,0 +1,10 @@
+{
+  "id": "xcode",
+  "name": "Xcode",
+  "aliases": [
+    "xcode"
+  ],
+  "category": "platforms",
+  "tags": [],
+  "description": ""
+}

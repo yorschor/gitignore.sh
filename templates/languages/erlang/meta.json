@@ -1,0 +1,10 @@
+{
+  "id": "erlang",
+  "name": "Erlang",
+  "aliases": [
+    "erlang"
+  ],
+  "category": "languages",
+  "tags": [],
+  "description": ""
+}

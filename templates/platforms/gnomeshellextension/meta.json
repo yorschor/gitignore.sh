@@ -1,0 +1,10 @@
+{
+  "id": "gnomeshellextension",
+  "name": "GNOMEShell Extension",
+  "aliases": [
+    "gnomeshellextension"
+  ],
+  "category": "platforms",
+  "tags": [],
+  "description": ""
+}

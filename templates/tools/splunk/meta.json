@@ -1,0 +1,10 @@
+{
+  "id": "splunk",
+  "name": "Splunk",
+  "aliases": [
+    "splunk"
+  ],
+  "category": "tools",
+  "tags": [],
+  "description": ""
+}

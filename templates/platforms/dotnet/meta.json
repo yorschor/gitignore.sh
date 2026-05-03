@@ -1,0 +1,10 @@
+{
+  "id": "dotnet",
+  "name": "Dotnet",
+  "aliases": [
+    "dotnet"
+  ],
+  "category": "platforms",
+  "tags": [],
+  "description": ""
+}

@@ -1,0 +1,10 @@
+{
+  "id": "leiningen",
+  "name": "Leiningen",
+  "aliases": [
+    "leiningen"
+  ],
+  "category": "languages",
+  "tags": [],
+  "description": ""
+}

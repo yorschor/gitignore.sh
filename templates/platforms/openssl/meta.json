@@ -1,0 +1,10 @@
+{
+  "id": "openssl",
+  "name": "Open SSL",
+  "aliases": [
+    "openssl"
+  ],
+  "category": "platforms",
+  "tags": [],
+  "description": ""
+}

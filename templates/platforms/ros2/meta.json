@@ -1,0 +1,10 @@
+{
+  "id": "ros2",
+  "name": "ROS2",
+  "aliases": [
+    "ros2"
+  ],
+  "category": "platforms",
+  "tags": [],
+  "description": ""
+}

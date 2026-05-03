@@ -1,0 +1,10 @@
+{
+  "id": "laravel",
+  "name": "Laravel",
+  "aliases": [
+    "laravel"
+  ],
+  "category": "frameworks",
+  "tags": [],
+  "description": ""
+}

@@ -1,0 +1,10 @@
+{
+  "id": "stm32cubeide",
+  "name": "STM32Cube IDE",
+  "aliases": [
+    "stm32cubeide"
+  ],
+  "category": "editors",
+  "tags": [],
+  "description": ""
+}
